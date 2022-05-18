@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "901893918913",
+    "project_id": "ozuapp-c5ead",
+    "storage_bucket": "ozuapp-c5ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:901893918913:android:11fa5ae031efb8daba0440",
+        "android_client_info": {
+          "package_name": "com.smartway.ozu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "901893918913-vvo24jijk1e5718jr40unhg2bgnl92ur.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvCcwOiX8Pm7wwonamyzgSF38n5D1Umvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "901893918913-vvo24jijk1e5718jr40unhg2bgnl92ur.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
